@@ -1,0 +1,74 @@
+body {
+  background-color: grey;
+  margin: 0;
+  padding: 0;
+}
+ul {
+  style: hover;
+  color: black;
+}
+li {
+  font-family: 'Quicksand', sans-serif;
+  float: left;
+  display: inline;
+  padding: 10px;
+}
+a {
+  color: white;
+  display: inline;
+  text-decoration: none;
+}
+a:hover {
+  font-size: 20px;
+  text-decoration: underline black;
+}
+.header {
+  background-image: url(http://www.gayot.com/blog/wp-content/uploads/2013/12/prora-beach-restaurant-view.jpg);
+  background-position: center center;
+  background-size: cover;
+  height: 750px;
+  width: 100%;
+}
+#header-text {
+  margin: 0 auto;
+  position: relative;
+  text-align: center;
+  top: 25%;
+  width: 60%;
+}
+h1,h2,h3,h4 {
+  color: black;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 70px;
+  font-weight: 400;
+  line-height: 45px;
+  margin: 50px;
+  text-decoration: underline white;
+}
+.Home {
+  color: white;
+  font-family: 'Quicksand', sans-serif;
+  margin: 100px;
+  margin-bottom: 0px;
+}
+#logo {
+  float: left;
+  height: 80px;
+  width: 80px;
+}
+#imgs-1 {
+  float: left;
+  height: 80px;
+  width: 80px;
+  margin;
+  2px;
+}
+.p2 {
+  Position: center;
+  font-family: 'Quicksand', sans-serif;
+  color: white;
+}
+.seafood {
+  float: left;
+  margin: 2px;
+}

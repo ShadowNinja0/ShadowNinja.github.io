@@ -71,3 +71,65 @@ h1,h2,h3,h4 {
   float: left;
   margin: 2px;
 }
+
+body {
+  background: grey;
+  margin: 0;
+  padding: 0;
+}
+
+#h01 {
+  margin-top: 80px;
+  font-family: 'Quicksand', sans-serif;
+  color: white;
+  text-decoration: underline black;
+}
+
+ul {
+  style: hover;
+  color: black;
+}
+
+li {
+  font-family: 'Quicksand', sans-serif;
+  float: left;
+  display: inline;
+  padding: 10px;
+}
+
+a {
+  color: white;
+  display: inline;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline black;
+}
+
+#logo {
+  float: left;
+  height: 80px;
+  width: 80px;
+}
+
+.seafood img {
+  margin-top: 20px;
+  float: left;
+  width: 350px;
+  height: 250px;
+}
+
+td {
+  font-weight: bold;
+  font-family: 'Quicksand', sans-serif;
+  color: white;
+  font-size: 20px;
+}
+
+#h02 {
+  font-family: 'Quicksand', sans-serif;
+  color: white;
+  text-decoration: underline black;
+  font-size: 20px;
+}

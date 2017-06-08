@@ -78,7 +78,7 @@ body {
   padding: 0;
 }
 
-.h01 {
+#h01 {
   margin-top: 80px;
   font-family: 'Quicksand', sans-serif;
   color: white;
@@ -127,7 +127,7 @@ td {
   font-size: 20px;
 }
 
-.h02 {
+#h02 {
   font-family: 'Quicksand', sans-serif;
   color: white;
   text-decoration: underline black;
@@ -177,14 +177,14 @@ a:hover {
   position: fixed;
 }
 
-.h11 {
+#h11 {
   font-family: 'Quicksand', sans-serif;
   text-decoration: underline black;
   color: white;
   font-size: 20px;
 }
 
-.pl {
+#pl {
   font-family: 'Quicksand', sans-serif;
   color: white;
   font-weight: bold;

@@ -78,7 +78,7 @@ body {
   padding: 0;
 }
 
-#h01 {
+.h01 {
   margin-top: 80px;
   font-family: 'Quicksand', sans-serif;
   color: white;
@@ -127,9 +127,65 @@ td {
   font-size: 20px;
 }
 
-#h02 {
+.h02 {
   font-family: 'Quicksand', sans-serif;
   color: white;
   text-decoration: underline black;
   font-size: 20px;
+}
+
+body {
+  background: grey;
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  style: hover;
+  color: black;
+}
+
+.map img {
+  height: 300px;
+  width: 400px;
+}
+
+li {
+  font-family: 'Quicksand', sans-serif;
+  float: left;
+  display: inline;
+  padding: 10px;
+}
+
+a {
+  color: white;
+  display: inline;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline black;
+}
+
+#logo {
+  float: left;
+  height: 80px;
+  width: 80px;
+}
+
+#exterior {
+  position: fixed;
+}
+
+.h11 {
+  font-family: 'Quicksand', sans-serif;
+  text-decoration: underline black;
+  color: white;
+  font-size: 20px;
+}
+
+.pl {
+  font-family: 'Quicksand', sans-serif;
+  color: white;
+  font-weight: bold;
 }

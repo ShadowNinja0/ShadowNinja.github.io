@@ -138,9 +138,9 @@ ul {
   color: black;
 }
 
-.map img {
-  height: 300px;
-  width: 400px;
+#map {
+  height: 400px;
+  width: 100%;
 }
 
 li {

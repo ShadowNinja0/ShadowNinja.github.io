@@ -260,7 +260,8 @@ label.star:before {
   color: Black;
   font-family: 'Quicksand', sans-serif;
   font-size: 125px;
-  letter-spacing: 25px;
+  letter-spacing: -5px;
+  line-spacing: 10px;
   padding: 5;
   margin: 5;
   font-weight: normal;

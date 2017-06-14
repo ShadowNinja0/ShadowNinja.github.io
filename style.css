@@ -257,13 +257,14 @@ label.star:before {
 }
 
 .head #name h1 {
-  color: rgb(255, 255, 255);
+  color: Black;
   font-family: 'Quicksand', sans-serif;
   font-size: 125px;
   letter-spacing: -5px;
-  padding: 0;
-  margin: 0;
+  padding: 5;
+  margin: 5;
   font-weight: normal;
-  text-shadow: 2px 3px lightgrey;
+  text-decoration: underline white;
 }
+
 

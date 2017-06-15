@@ -256,10 +256,10 @@ label.star:before {
   margin-top: 120px;
 }
 
-.head #name h1, h2 {
+.head #name h1 {
   color: Black;
   font-family: 'Quicksand', sans-serif;
-  font-size: 125px;
+  font-size: 80px;
   letter-spacing: -5px;
   line-spacing: 10px;
   padding: 5;
@@ -268,4 +268,13 @@ label.star:before {
   text-decoration: underline white;
 }
 
-
+.head #name h2 {
+  color: Black;
+  font-family: 'Quicksand', sans-serif;
+  letter-spacing: -5px;
+  line-spacing: 10px;
+  padding: 5;
+  margin: 5;
+  font-weight: normal;
+  text-decoration: underline white; 
+}

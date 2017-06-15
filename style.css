@@ -256,7 +256,7 @@ label.star:before {
   margin-top: 120px;
 }
 
-.head #name h1 {
+.head #name h1, h2 {
   color: Black;
   font-family: 'Quicksand', sans-serif;
   font-size: 125px;

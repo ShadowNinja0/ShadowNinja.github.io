@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Comfortaa');
-
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
 
 
 h1 {
@@ -10,7 +10,7 @@ margin-bottom: 5px;
 }
 
 .kobe p {
-font-family: 'Comfortaa', cursive;
+font-family: 'Press Start 2P', cursive;
 text-decoration: underline;
 float: left;
 margin-top: 5px;

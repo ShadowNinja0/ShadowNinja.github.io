@@ -4,6 +4,8 @@
 
 h1 {
 font-family: 'Comfortaa', cursive;
+text-decoration: underline;
+float: left;
 }
 
 

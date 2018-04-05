@@ -5,6 +5,7 @@ body {
 .links {
   font-family: 'Poiret One', cursive;
   color: grey;
+  text-decoration: none;
 }
 
 .namep {

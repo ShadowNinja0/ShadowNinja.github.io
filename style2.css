@@ -1,0 +1,19 @@
+body {
+  
+}
+
+h1 {
+  font-family: 'Poiret One', cursive;
+  text-decoration: underline;
+  border-style: groove;
+  color: grey;
+}
+
+.namep {
+  font-family: 'Concert One', cursive;
+  text-decoration: underline;
+}
+
+.h1p {
+  font-family: 'Concert One', cursive;
+}

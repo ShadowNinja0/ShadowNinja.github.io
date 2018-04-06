@@ -4,8 +4,9 @@ body {
 
 .links a {
   font-family: 'Poiret One', cursive;
-  color: black;
+  color: white;
   text-decoration: none;
+  background-color: grey;
 }
 
 .namep {

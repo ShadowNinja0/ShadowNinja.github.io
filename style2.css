@@ -2,7 +2,7 @@ body {
   
 }
 
-a {
+.links a {
   font-family: 'Poiret One', cursive;
   color: black;
   text-decoration: none;

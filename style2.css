@@ -18,6 +18,7 @@ a {
   color: white;
   display: inline;
   text-decoration: none;
+  background: grey;
 }
 
 a:hover {

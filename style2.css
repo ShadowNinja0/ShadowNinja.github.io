@@ -26,6 +26,7 @@ a:hover {
 }
 
 .namep {
+  margin-top: 20px;
   font-family: 'Concert One', cursive;
   text-decoration: underline;
 }

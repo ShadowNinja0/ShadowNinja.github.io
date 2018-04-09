@@ -15,10 +15,9 @@ li {
 }
 
 a {
-  color: white;
+  color: grey;
   display: inline;
   text-decoration: none;
-  background-color: grey;
 }
 
 a:hover {

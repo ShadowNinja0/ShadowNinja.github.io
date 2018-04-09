@@ -2,11 +2,26 @@ body {
   
 }
 
-.links a {
-  font-family: 'Poiret One', cursive;
+ul {
+  style: hover;
+  color: black;
+}
+
+li {
+  font-family: 'Quicksand', sans-serif;
+  float: left;
+  display: inline;
+  padding: 10px;
+}
+
+a {
   color: white;
+  display: inline;
   text-decoration: none;
-  background-color: grey;
+}
+
+a:hover {
+  text-decoration: underline black;
 }
 
 .namep {

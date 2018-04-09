@@ -15,7 +15,7 @@ li {
 }
 
 a {
-  color: black;
+  color: grey;
   display: inline;
   text-decoration: none;
 }
@@ -36,4 +36,5 @@ a:hover {
 
 p {
 float: left;
+padding-top: 20px;  
 }

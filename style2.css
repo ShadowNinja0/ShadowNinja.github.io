@@ -33,3 +33,7 @@ a:hover {
 .h1p {
   font-family: 'Concert One', cursive;
 }
+
+p {
+float: left;
+}

@@ -35,6 +35,8 @@ padding-top: 30px;
 font-size: 20px;
 }
 
-img {
+.luxury {
 float: left;
+height: 200px;
+width: 500px;
 }

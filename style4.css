@@ -1,0 +1,76 @@
+
+@import url('https://fonts.googleapis.com/css?family=Mina');
+body {
+    background-image: url("")
+    }
+h1 { 
+    font-family: 'mina', sans-serif;
+    font-size: 64px;
+    text-decoration: underline;
+    text-align: center;
+    color: #ffffff;
+      }
+img {
+	border: 1px solid #000000;
+	
+	
+	
+	}
+h2,
+p  {
+    font-family: 'mina', sans-serif;
+    text-decoration: underline;
+    color: #000000;
+	
+
+		
+    
+     
+      }
+#kobe {
+	text-align: center;
+	position: fixed;
+	font-size: 28px;
+	bottom: 200px;
+	float: center;
+	left: 350px;
+		}
+
+#Winter {
+	position: fixed;
+	text-align: left;
+	font-size: 28px;
+	bottom: 550px;
+	left:0px
+}
+
+#Russian {
+	position: fixed;
+	text-align: right;
+	font-size: 28px;
+	bottom: 550px;
+	right: 0px;
+}
+
+#Back {
+	position: fixed;
+	font-size: 19px;
+	bottom: 800px;
+	left: 15px;
+	
+}
+.column {
+           		float: bottom;
+           		padding: 15px
+           }
+.column img {
+           		float: right;
+           }
+.clearfix : :after {
+           		content: "";
+           		clear: both:
+            
+           }
+.content {
+           		width: 70%
+           }
